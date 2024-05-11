@@ -3,7 +3,9 @@
 
 ## Overview
 This is a simple Python script that converts an image file into ASCII art.
+
 ![alt text](img\start.png)
+
 ![alt text](img\mona_lisa.png)
 
 ## Features
